@@ -99,7 +99,4 @@ Never commit your `.env` file to GitHub. Add it to `.gitignore`:
 
 ---
 
-## 🙏 Acknowledgements
-
-Built as a learning project inspired by the [DeepLearning.AI ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) course.
 ![alt text](image.png)
